@@ -1,0 +1,1 @@
+This is were the UI components will exist. These will strictly contain CSS and TSX files with styling. Avoid state management completely in here for re-usability.
